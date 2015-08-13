@@ -1,0 +1,37 @@
+.helloWorld{
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+	font-size: 100px;
+	color: white;
+	background-color: black;
+	padding-bottom: 30px;
+	padding-top: 15px;
+}
+
+.chicken, .alert{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+body {
+	background-color: gray;
+}
+
+.main{
+	text-align: center;
+	background-color: white;
+	padding-top: auto;
+	padding-left: auto;
+	padding-right: auto;
+	color: white;
+	font-size: 20px;
+	font-family: 'Playfair Display', serif;
+}
+
+.material{
+	margin-top: 30px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+

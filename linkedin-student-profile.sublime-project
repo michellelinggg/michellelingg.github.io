@@ -1,0 +1,18 @@
+{
+  "folders":
+  [
+    {
+      "folder_exclude_patterns":
+      [
+        "tmp",
+        ".gradle",
+        "out",
+        "build",
+        "node_modules",
+        "dist",
+        "coverage"
+      ],
+      "path": "."
+    }
+  ]
+}

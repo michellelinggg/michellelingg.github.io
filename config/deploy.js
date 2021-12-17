@@ -23,7 +23,7 @@ module.exports = function(deployTarget) {
   }
 
   ENV['git'] = {
-    repo: 'https://github.com/michellelinggg/michellelinggg.github.io.git'
+    repo: 'git@github.com:michellelinggg/michellelinggg.github.io.git'
   };
 
 
